@@ -1,9 +1,7 @@
-# PROJECTNAME
+# Microsoft Sentinel SOC Lab
 
 ## Objective
-[Brief Objective - Remove this afterwards]
-
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The Microsoft Sentinel SOC Home Lab builds upon my experience with the SOC Automation Lab by expanding my real-time threat detection skills into a cloud-native SIEM environment using Microsoft Sentinel in the Azure ecosystem. While both labs focus on real-time threat detection, the SOC Automation Lab emphasized automation and incident response with Wazuh, whereas this lab introduces advanced features like KQL querying, geolocation enrichment, and the creation of dynamic attack maps within Sentinel. This project further develops my cloud security expertise by shifting from open-source tools to an enterprise-level Azure-based solution, enhancing my ability to visualize and track threats more effectively.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
